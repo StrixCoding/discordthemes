@@ -56,6 +56,26 @@
     text-shadow: 0 0 12px black, 0 0 12px black, 0 0 12px black;
   }
   
+  .theme-dark .closeButton-1tv5uR:hover {
+    background-color: rgba(38, 171, 45, 0.37);
+  }
+  
+  .lookOutlined-3sRXeN.colorBrand-3pXr91 {
+    color: white;
+    border-color: rgba(38, 171, 45, 0.66) !important;
+  }
+  
+  .lookFilled-1Gx00P.colorBrand-3pXr91,
+  .lookFilled-1Gx00P.colorBrand-3pXr91:disabled {
+    color: #fff;
+    background-color: rgba(38, 171, 45, 0.8);
+    border: 2px solid rgba(0, 0, 0, 0.237);
+  }
+  
+  .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+    background-color: rgba(38, 171, 45, 0.9);
+  }
+  
   .theme-dark .avatarUploader-3XDtmn .removeButton-1hcZyG {
     color: white !important;
   }
@@ -1546,6 +1566,10 @@
     color: white;
   }
   
+  .tab-2j5AEF:hover {
+    background-color: #26C82D;
+  }
+  
   .searchResult-9tQ1uo {
     overflow: visible;
     background-color: rgba(0, 0, 0, .23);
@@ -1612,6 +1636,22 @@
     width: 14px;
     border-radius: 10px;
     height: 14px;
+  }
+  
+  .mediaBarGrabber-1FqnbN,
+  .mediaBarProgress-1xaPtl,
+  .mediaBarProgress-1xaPtl:after,
+  .mediaBarProgress-1xaPtl:before,
+  .mediaBarInteraction-37i2O4:hover .mediaBarGrabber-1FqnbN {
+    background-color: #5eadea;
+  }
+  
+  .progress-3Rbvu0[style*="background-color: rgb(233, 231, 231);"] {
+    background-color: transparent !important;
+  }
+  
+  .small-1CUeBa[style*="background-color: rgb(38, 171, 45);"] {
+    background-color: #5eadea !important;
   }
   
   .theme-dark .attachment-33OFj0,
@@ -1694,6 +1734,12 @@
   .lookInverted-2D7oAl.colorGreen-29iAKY {
     color: white;
     background-color: transparent;
+    border: 2px solid #12C60F;
+  }
+  
+  .lookInverted-2D7oAl.colorGreen-29iAKY:hover {
+    color: white;
+    background-color: #12C60F !important;
   }
   
   .userPopout-3XzG_A {
@@ -2082,6 +2128,14 @@
     background-color: rgba(0, 0, 0, .3);
   }
   
+  .colorDefault-2K3EoJ .radioSelection-1HmrQS {
+    color: #26AB2D !important;
+  }
+  
+  .live-vBWnV6 {
+    background-color: #26AB2D !important;
+  }
+  
   .background-1QDuV2,
   .accountList-33MS45,
   .connection-1fbD7X {
@@ -2102,6 +2156,10 @@
   
   .scroller-3BxosC:hover {
     color: #ffffff;
+  }
+  
+  .strikethrough-1n4ekb {
+    color: #26AB2D;
   }
   
   .lookFilled-1Gx00P.colorGrey-2DXtkV {
@@ -2132,6 +2190,10 @@
     width: 18px;
     height: 18px;
     margin-top: 1.8px;
+  }
+  
+  .iconBadge-2wi9r4.participating-NBGDkr {
+    background-color: #26AB2D;
   }
   
   .card-2Mz_4z {
