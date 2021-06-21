@@ -608,6 +608,7 @@
   
   .container-UC8Ug1 {
     border-radius: 4px;
+    border: 1px solid #26AB2D;
     background-color: rgba(0, 0, 0, .4);
   }
   
@@ -1056,6 +1057,17 @@
   
   .wrapper-sa6paO {
     overflow: visible;
+  }
+  
+  .item-2hkk8m {
+    width: 13px !important;
+    height: 13px !important;
+    border-radius: 15px !important;
+    margin-left: 5px;
+    top: 15px;
+    z-index: 1;
+    background-color: rgba(38, 171, 45, 0.59);
+    border: 2px solid #C9A600;
   }
   
   .theme-dark .pageWrapper-1PgVDX {
