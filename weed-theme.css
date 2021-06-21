@@ -505,6 +505,10 @@
     background: rgba(0, 0, 0, .4);
   }
   
+  .selectedIcon-3uS11H {
+    color: #26AB2D;
+  }
+  
   .theme-dark .option-3KoAJB:hover,
   .css-rzbxvl-option {
     background-color: rgba(0, 0, 0, .23);
@@ -522,6 +526,14 @@
     background-position: center;
     background-color: transparent;
     top: 6px;
+  }
+  
+  .barFill-23-gu- {
+    background: #26AB2D;
+  }
+  
+  .barFill-23-gu-[style*="background: rgb(251, 184, 72);"] {
+    background: #26AB2D !important;
   }
   
   .theme-dark .bar-2Qqk5Z {
@@ -543,6 +555,7 @@
   }
   
   .item-26Dhrx[aria-checked=true] {
+    background-color: #26AB2D !important;
     border: 2px solid rgba(0, 0, 0, 0.52) !important;
   }
   
