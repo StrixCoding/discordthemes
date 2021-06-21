@@ -1122,23 +1122,6 @@
     overflow: visible;
   }
   
-  .item-2hkk8m {
-    width: 13px !important;
-    height: 13px !important;
-    border-radius: 15px !important;
-    margin-left: 5px;
-    top: 15px;
-    z-index: 1;
-    background-color: rgba(38, 171, 45, 0.59);
-    border: 2px solid #C9A600;
-  }
-  
-  .item-2hkk8m[style*="height: 40px;"] {
-    width: 13px !important;
-    height: 13px !important;
-    background-color: #26AB2D;
-  }
-  
   .theme-dark .pageWrapper-1PgVDX {
     background-color: transparent;
   }
@@ -1689,10 +1672,6 @@
     border-right: none;
     padding: 12px;
     border-bottom: none;
-  }
-  
-  .divider-JfaTT5 {
-    border: 1px solid #26AB2D;
   }
   
   #app-mount .content-1o0f9g {
@@ -2396,19 +2375,7 @@
     background-color: rgba(38, 103, 45, 0.8);
     border-radius: 8px;
   }
-  
-  .side-8zPYf6 .item-PXvHYJ:hover,[style*="color: rgb(114, 137, 218);"]{
-      background-color: rgba(38, 171, 45, 0.201) !important;
-  }
-  
-  .children-19S4PO {
-      background: rgba(38, 171, 45, 0.5);
-      border-radius: 20px;
-  }
-  
-  .children-19S4PO:after {
-      background: rgba(38, 171, 45, 0.5) !important;
-  }
+
   .cooldownWrapper-3joyF, .da-cooldownWrapper{
       color: transparent !important;
   }
