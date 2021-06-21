@@ -1335,6 +1335,7 @@
   
   .hasMore-3e72_v,
   .theme-dark .hasMoreButton-1MELpI {
+    background: #26AB2D !important;
     border: none;
     color: white;
   }
@@ -1352,6 +1353,7 @@
   .clickable-11uBi-:hover,
   .selected-BYpGTS {
     color: white !important;
+    background-color: #26AB2D;
   }
   
   .styleFlexible-wGDiIL,
@@ -1404,6 +1406,14 @@
   .emptyChannelIcon-3IXV5M {
     border-radius: 4px;
     background-color: rgba(0, 0, 0, .26);
+  }
+  
+  .theme-dark .jumpButton-3DTcS_,
+  .theme-dark .button-11zvza,
+  .theme-dark .collapseButton-oSNpPX,
+  .jumpButton-2dvRSC {
+    background-color: #26AB2D;
+    color: white !important;
   }
   
   .messageGroupWrapper-o-Zw7G {
@@ -1480,7 +1490,12 @@
   .theme-dark .calendarPicker-2yf6Ci .react-datepicker {
     background-color: transparent;
   }
-
+  
+  .theme-dark .datePicker--XZbmJ .datePickerHint-3Q1Udw .hintValue-29ny8Z {
+    color: #e6e6e6;
+    background-color: #26AB2D !important;
+    border-radius: 5px;
+  }
   
   .theme-dark .searchResult-9tQ1uo.expanded-w_LCGl {
     border: none;
@@ -1550,6 +1565,10 @@
     border: none;
   }
   
+  .theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
+    background-color: #26AB2D;
+  }
+  
   .theme-dark .edited-3sfAzf,
   .theme-dark .operations-36ENbA,
   .cozy-3raOZG .timestamp-3ZCmNB {
@@ -1564,6 +1583,10 @@
   
   .tab-2j5AEF, .tab-2j5AEF:active, .tab-2j5AEF:hover {
     color: white;
+  }
+  
+  .theme-dark .tab-2j5AEF.selected-2LAck8 {
+    background-color: #26AB2D;
   }
   
   .tab-2j5AEF:hover {
@@ -1595,6 +1618,22 @@
     border-bottom: none;
   }
   
+  .divider-JfaTT5 {
+    border: 1px solid #26AB2D;
+  }
+  
+  #app-mount .content-1o0f9g {
+    color: white;
+    background-color: #26AB2D !important;
+    padding: 4px 7px;
+  }
+  
+  #app-mount .isUnread-3Ef-o9 .content-1o0f9g {
+    color: white;
+    background-color: #26AB2D;
+    padding: 4px 7px;
+  }
+  
   .reaction-1hd86g {
     border-radius: 8px;
     background: rgba(255, 255, 255, .1);
@@ -1614,6 +1653,8 @@
   
   .botTagRegular-2HEhHi,
   .botTagInvert-18-95s {
+    background: #26AB2D;
+    color: #fff;
     padding: 3px;
     text-shadow: none;
   }
@@ -1740,6 +1781,10 @@
   .lookInverted-2D7oAl.colorGreen-29iAKY:hover {
     color: white;
     background-color: #12C60F !important;
+  }
+  
+  .liveRed-lUmv1v {
+    background-color: #26AB2D !important;
   }
   
   .userPopout-3XzG_A {
@@ -2016,6 +2061,10 @@
     background: none;
   }
   
+  .navButtonActive-1MkytQ:hover {
+    background-color: #26AB2D;
+  }
+  
   .navButtonActive-1MkytQ.active {
     border: 2px solid rgba(255, 255, 255, 0.15);
   }
@@ -2069,6 +2118,17 @@
     mask: none;
   }
   
+  .iconBadge-qZ4Ksk {
+    position: absolute;
+    right: 2px;
+    bottom: 1px;
+    width: 10px;
+    height: 10px;
+    border-radius: 8px;
+    background-color: #26AB2D;
+    border: 1px solid rgba(255, 255, 255, 0.41);
+  }
+  
   .theme-dark .guildName-1Bc3Ta,
   .colorDefault-2K3EoJ {
     color: rgb(222, 222, 222);
@@ -2085,6 +2145,11 @@
   
   .theme-dark .theme-dark .form-2fGMdU {
     background: none;
+  }
+  
+  .unreadPillCapStroke-7rkHbg {
+    color: #26AB2D;
+    fill: #26AB2D;
   }
   
   .theme-dark .theme-dark .form-2fGMdU:before,
